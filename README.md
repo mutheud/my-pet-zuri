@@ -1,4 +1,4 @@
-# {Application Name}
+# {My pet Zuri}
 #### {Blog post website about my pet Zuri}, {September 5th, 2018 Initial}
 #### By **{maxwaiyaki and kanogaelias}**
 ## Description
