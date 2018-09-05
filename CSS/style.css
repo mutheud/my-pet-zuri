@@ -1,0 +1,24 @@
+h1{
+  color: #0000ff;
+
+}
+h2{
+  color:green;
+  font-style:italic;
+
+}
+p{
+  font-family:san-serif;
+
+}
+ul{
+  line-height: 40px;
+
+}
+ol{
+  line-height: 35px;
+
+}
+
+
+}
