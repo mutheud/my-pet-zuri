@@ -1,4 +1,4 @@
-# {My pet Zuri}
+# My pet Zuri
 #### {Blog post website about my pet Zuri}, {September 5th, 2018 Initial}
 #### By **{maxwaiyaki and kanogaelias}**
 ## Description
@@ -12,7 +12,7 @@
 ## Technologies Used
 {We have entirely used HTML5 to create this page You could add little bit of some CSS and JavaScript to make it fancier and responsive.}
 ## Link
-{https://maxwaiyaki.github.io/my-pet-zuri/}
+{ https://maxwaiyaki.github.io/my-pet-zuri/ }
 ## Support and contact details
 {You can reach out to us via email maxwaiyaki247@gmail.com or kanogae@gmail.com.}
 ### License
